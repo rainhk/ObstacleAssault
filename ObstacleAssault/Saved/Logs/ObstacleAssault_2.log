@@ -1937,3 +1937,180 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.08-03.55.40:516][540]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 1367 triangles, SM_FloatingIsland_S
 [2023.10.08-03.55.48:153][333]LogMeshUtilities: Finished distance field build in 7.6s - 259x259x259 sparse distance field, 8.3Mb total, 0.4Mb always loaded, 25% occupied, 2281 triangles, SM_FloatingIsland_M
 [2023.10.08-03.55.55:554][132]LogMeshUtilities: Finished distance field build in 7.3s - 259x259x259 sparse distance field, 8.0Mb total, 0.3Mb always loaded, 24% occupied, 5366 triangles, SM_FloatingIsland_L
+[2023.10.08-04.01.55:303][ 48]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.08-04.01.55:446][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.08-04.01.55:477][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.08-04.01.55:510][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.08-04.01.55:526][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.08-04.01.55:532][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.10.08-04.01.55:543][ 48]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.007090 seconds
+[2023.10.08-04.01.55:660][ 48]LogSavePackage: Moving output files for package: /Game/Main
+[2023.10.08-04.01.55:660][ 48]LogSavePackage: Moving '../../../../../../Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Saved/MainCDCA05EC4ED11C3E480D21B1116370BC.tmp' to '../../../../../../Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/Main.umap'
+[2023.10.08-04.01.55:684][ 48]LogFileHelpers: Saving map 'Main' took 0.374
+[2023.10.08-04.01.55:684][ 48]Cmd: MAP LOAD FILE="../../../../../../Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.08-04.01.55:684][ 48]LightingResults: New page: Lighting Build
+[2023.10.08-04.01.55:684][ 48]LoadErrors: New page: Loading map: Main.umap
+[2023.10.08-04.01.55:704][ 48]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2023.10.08-04.01.55:704][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.08-04.01.55:704][ 48]MapCheck: New page: Map Check
+[2023.10.08-04.01.55:704][ 48]LightingResults: New page: Lighting Build
+[2023.10.08-04.01.55:709][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.08-04.01.55:714][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.10.08-04.01.55:719][ 48]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.08-04.01.55:720][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.08-04.01.55:730][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.08-04.01.55:734][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.10.08-04.01.55:765][ 48]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2023.10.08-04.01.55:765][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.08-04.01.55:765][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.08-04.01.55:767][ 48]LogAIModule: Creating AISystem for world Main
+[2023.10.08-04.01.57:574][ 48]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.08-04.01.57:585][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.10.08-04.01.57:588][ 48]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.08-04.01.57:588][ 48]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2023.10.08-04.01.57:591][ 48]AssetCheck: New page: Asset Save: Main
+[2023.10.08-04.01.57:592][ 48]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.10.08-04.01.59:319][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.10.08-04.01.59:323][186]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main.Main
+[2023.10.08-04.01.59:324][186]Cmd: MAP LOAD FILE="../../../../../../Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.08-04.01.59:324][186]LightingResults: New page: Lighting Build
+[2023.10.08-04.01.59:324][186]LoadErrors: New page: Loading map: Main.umap
+[2023.10.08-04.01.59:341][186]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.08-04.01.59:342][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.08-04.01.59:342][186]MapCheck: New page: Map Check
+[2023.10.08-04.01.59:342][186]LightingResults: New page: Lighting Build
+[2023.10.08-04.01.59:346][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.08-04.01.59:351][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.08-04.01.59:385][186]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2023.10.08-04.01.59:385][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.08-04.01.59:385][186]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.08-04.01.59:386][186]LogAIModule: Creating AISystem for world Main
+[2023.10.08-04.02.01:161][186]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.08-04.02.01:172][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.10.08-04.02.01:174][186]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.08-04.02.01:175][186]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: ================================================
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Total job queries 6,275, among them cache hits 29 (0.46%)
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Tracking 6,241 distinct input hashes that result in 4,595 distinct outputs (73.63%)
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: RAM used: 86.52 MiB of 819.20 MiB budget. Usage: 10.56%
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Shaders Compiled: 6,241
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Jobs assigned 6,242, completed 6,241 (99.98%)
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Average time worker was idle: 2.93 s
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Time job spent in pending queue: average 77.12 s, longest 162.76 s
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Job execution time: average 2.10 s, max 22.22 s
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Job life time (pending + execution): average 79.22 s, max 165.98
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Shader code size: average 28.086 KiB, min 2.078 KiB, max 159.879 KiB
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 178.23 s
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Jobs were issued in 703 batches (only local compilation was used), average 8.88 jobs/batch
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Average processing rate: 35.02 jobs/sec
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Total thread time: 1,313.832 s
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Total thread preprocess time: 100.714 s
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Percentage time preprocessing: 7.67%
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Effective parallelization: 7.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.04 sec, max 5.17 sec, min 2.64 sec)
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.88 sec, max 6.72 sec, min 1.38 sec)
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 3.56 sec, max 6.69 sec, min 0.56 sec)
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 1.39 sec, max 1.69 sec, min 0.68 sec)
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.39 sec, max 1.87 sec, min 0.74 sec)
+[2023.10.08-04.11.35:296][867]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.08-04.11.35:297][867]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.36% of total time (compiled  134 times, average 1.11 sec, max 1.41 sec, min 0.92 sec)
+[2023.10.08-04.11.35:297][867]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 4.66% of total time (compiled  384 times, average 0.16 sec, max 0.33 sec, min 0.08 sec)
+[2023.10.08-04.11.35:297][867]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.61% of total time (compiled   96 times, average 0.63 sec, max 1.00 sec, min 0.41 sec)
+[2023.10.08-04.11.35:297][867]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.89% of total time (compiled   96 times, average 0.53 sec, max 0.83 sec, min 0.13 sec)
+[2023.10.08-04.11.35:297][867]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 3.48% of total time (compiled   33 times, average 1.39 sec, max 1.87 sec, min 0.74 sec)
+[2023.10.08-04.11.35:297][867]LogShaderCompilers: Display: ================================================
+[2023.10.08-04.11.50:230][224]LogSlate: External Image Picker: DecompressImage failed
+[2023.10.08-04.11.57:768][495]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2023.10.08-04.11.57:768][495]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2023.10.08-04.11.57:768][495]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2023.10.08-04.12.02:451][819]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.08-04.12.22:172][279]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.08-04.12.22:179][279]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.08-04.12.55:990][673]Cmd: SELECT NONE
+[2023.10.08-04.14.21:578][260]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.08-04.14.21:578][260]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/Developers/doyeo/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.08-04.14.21:578][260]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.08-04.15.28:977][902]LogLinker: Warning: [AssetLog] C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/XRBase'
+[2023.10.08-04.15.29:008][902]LogBlueprint: Error: [AssetLog] C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Reset Orientation and Position . Please refresh node or break links to remove pin.
+[2023.10.08-04.15.29:009][902]LogBlueprint: Error: [AssetLog] C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Could not find a function named "ResetOrientationAndPosition" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Reset Orientation and Position
+[2023.10.08-04.15.29:010][902]LogBlueprint: Warning: [AssetLog] C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2023.10.08-04.15.29:011][902]LogBlueprint: Warning: [AssetLog] C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.10.08-04.15.29:058][902]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2023.10.08-04.15.29:064][902]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2023.10.08-04.15.29:071][902]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2023.10.08-04.15.29:074][902]LogAnimationCompression: Display: Storing compressed animation data for /Game/SCK_Casual01/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump, at AnimationSequence/57357379f5a1dca66bd7d644d1121b1780790153
+[2023.10.08-04.15.29:090][902]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2023.10.08-04.15.29:090][902]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2023.10.08-04.15.29:090][902]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2023.10.08-04.15.29:112][902]LogAnimationCompression: Display: Storing compressed animation data for /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop, at AnimationSequence/ab9298a60b0d64d685770bc99d8b5aa05602b732
+[2023.10.08-04.15.29:118][902]LogAnimationCompression: Display: Storing compressed animation data for /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start, at AnimationSequence/fd9dfb7456a672345eae043030e119d1a7fe2310
+[2023.10.08-04.15.29:149][902]LogAnimationCompression: Display: Storing compressed animation data for /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun, at AnimationSequence/a5675518e5358d4dee04cf533449693b29c46ce3
+[2023.10.08-04.15.29:179][902]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.10.08-04.15.29:179][902]LogAnimationCompression: Display: Storing compressed animation data for /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk, at AnimationSequence/e95eb44a649860cf8acb8514040bff8cf4f48a46
+[2023.10.08-04.15.29:180][902]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.10.08-04.15.29:198][902]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2023.10.08-04.15.29:283][902]LogAnimationCompression: Display: Storing compressed animation data for /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle, at AnimationSequence/a8f1068c9d9ee5f62f4775b00ebb7f95d85e9c87
+[2023.10.08-04.15.29:284][902]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2023.10.08-04.15.29:335][902]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/SCK_Casual01/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2023.10.08-04.15.29:341][902]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.10.08-04.15.29:342][902]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.10.08-04.15.29:343][902]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.10.08-04.15.29:349][902]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.10.08-04.15.29:349][902]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.10.08-04.15.29:351][902]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/Main.Main:PersistentLevel.ThirdPersonCharacter_C_0
+[2023.10.08-04.15.29:356][902]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/Main.Main:PersistentLevel.ThirdPersonCharacter_C_0
+[2023.10.08-04.15.29:356][902]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.10.08-04.15.29:362][902]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.08-04.15.29:366][902]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.08-04.15.29:380][902]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.10.08-04.15.29:473][904]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: ================================================
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: Total job queries 6,301, among them cache hits 29 (0.46%)
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: Tracking 6,256 distinct input hashes that result in 4,605 distinct outputs (73.61%)
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: RAM used: 86.83 MiB of 819.20 MiB budget. Usage: 10.60%
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: Shaders Compiled: 6,256
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: Jobs assigned 6,264, completed 6,256 (99.87%)
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: Average time worker was idle: 13.46 s
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: Time job spent in pending queue: average 76.85 s, longest 162.76 s
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: Job execution time: average 2.09 s, max 22.22 s
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: Job life time (pending + execution): average 79.04 s, max 165.98
+[2023.10.08-04.15.29:934][936]LogShaderCompilers: Display: Shader code size: average 28.095 KiB, min 2.078 KiB, max 159.879 KiB
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 179.73 s
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display: Jobs were issued in 725 batches (only local compilation was used), average 8.64 jobs/batch
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display: Average processing rate: 34.81 jobs/sec
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display: Total thread time: 1,318.349 s
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display: Total thread preprocess time: 101.191 s
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display: Percentage time preprocessing: 7.68%
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display: Effective parallelization: 7.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.04 sec, max 5.17 sec, min 2.64 sec)
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.88 sec, max 6.72 sec, min 1.38 sec)
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 3.56 sec, max 6.69 sec, min 0.56 sec)
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 1.39 sec, max 1.69 sec, min 0.68 sec)
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.39 sec, max 1.87 sec, min 0.74 sec)
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.33% of total time (compiled  134 times, average 1.11 sec, max 1.41 sec, min 0.92 sec)
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 4.64% of total time (compiled  384 times, average 0.16 sec, max 0.33 sec, min 0.08 sec)
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.60% of total time (compiled   96 times, average 0.63 sec, max 1.00 sec, min 0.41 sec)
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.87% of total time (compiled   96 times, average 0.53 sec, max 0.83 sec, min 0.13 sec)
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 3.47% of total time (compiled   33 times, average 1.39 sec, max 1.87 sec, min 0.74 sec)
+[2023.10.08-04.15.29:935][936]LogShaderCompilers: Display: ================================================
+[2023.10.08-04.15.31:407][ 62]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.10.08-04.15.31:407][ 62]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.10.08-04.15.31:412][ 62]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/Main.Main:PersistentLevel.ThirdPersonCharacter_C_1
+[2023.10.08-04.15.31:413][ 62]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/Main.Main:PersistentLevel.ThirdPersonCharacter_C_1
+[2023.10.08-04.15.31:634][ 63]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.08-04.15.58:513][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.08-04.15.58:619][320]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2023.10.08-04.15.58:619][320]LogSavePackage: Moving '../../../../../../Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Saved/Main_Auto15B7E6E454AF2BDAFAB42AB89A29C2A79.tmp' to '../../../../../../Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/Main_Auto1.umap'
+[2023.10.08-04.15.58:622][320]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/Main_Auto1.umap is in the /Temp path, will not scan.
+[2023.10.08-04.15.58:622][320]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Main_Auto1 is in the /Temp path, will not scan.
+[2023.10.08-04.15.58:622][320]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_Auto1 is in the /Temp path, will not scan.
+[2023.10.08-04.15.58:622][320]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.115
+[2023.10.08-04.15.58:623][320]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.115
