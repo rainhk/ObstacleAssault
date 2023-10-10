@@ -1243,3 +1243,12 @@ Make sure 'ThirdPersonCharacter' has been compiled for  Reset Orientation and Po
 [2023.10.10-00.56.16:717][788]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/Main_Auto1.umap is in the /Temp path, will not scan.
 [2023.10.10-00.56.16:717][788]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.153
 [2023.10.10-00.56.16:717][788]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.153
+[2023.10.10-01.19.23:778][144]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.10-01.19.34:100][ 66]LogLiveCoding: Display:    Creating library C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_0.lib and object C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_0.exp
+[2023.10.10-01.19.34:241][ 72]LogClass: UPackage /Script/ObstacleAssault Reload.
+[2023.10.10-01.19.34:241][ 72]LogClass: UClass MovingPlatform Reload.
+[2023.10.10-01.19.34:242][ 72]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2023.10.10-01.19.34:256][ 72]Re-instancing MovingPlatform after reload.
+[2023.10.10-01.19.34:415][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.10.10-01.19.34:446][ 73]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.10.10-01.19.34:446][ 73]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
