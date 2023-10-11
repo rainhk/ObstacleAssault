@@ -1564,3 +1564,21 @@ Make sure 'ThirdPersonCharacter' has been compiled for  Reset Orientation and Po
 [2023.10.11-01.29.45:655][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 448 ms)
 [2023.10.11-01.29.45:659][ 69]AssetCheck: New page: Asset Save: Main
 [2023.10.11-01.29.45:659][ 69]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.10.11-01.40.07:632][289]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.11-01.40.38:686][ 64]LogLiveCoding: Display:    Creating library C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_3.lib and object C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_3.exp
+[2023.10.11-01.40.38:835][ 70]LogClass: UPackage /Script/ObstacleAssault Reload.
+[2023.10.11-01.40.38:835][ 70]LogClass: UClass MovingPlatform Reload.
+[2023.10.11-01.40.38:835][ 70]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2023.10.11-01.40.38:851][ 70]Re-instancing MovingPlatform after reload.
+[2023.10.11-01.40.38:932][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.10.11-01.40.39:362][ 71]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.10.11-01.40.39:362][ 71]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.10.11-01.45.09:077][588]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.11-01.45.30:863][610]LogLiveCoding: Display:    Creating library C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_4.lib and object C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_4.exp
+[2023.10.11-01.45.31:049][618]LogClass: UPackage /Script/ObstacleAssault Reload.
+[2023.10.11-01.45.31:049][618]LogClass: UClass MovingPlatform Reload.
+[2023.10.11-01.45.31:049][618]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2023.10.11-01.45.31:068][618]Re-instancing MovingPlatform after reload.
+[2023.10.11-01.45.31:282][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.10.11-01.45.31:716][619]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.10.11-01.45.31:716][619]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
