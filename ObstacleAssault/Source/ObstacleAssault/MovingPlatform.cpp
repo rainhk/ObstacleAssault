@@ -15,8 +15,6 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
-
-	
 }
 
 // Called every frame
@@ -24,18 +22,13 @@ void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	FVector LocalVector = FVector(1,2,3);
-
-	LocalVector.Z += 1;
-
-	MyVector.Y += 1;
-
-	SetActorLocation(MyVector);
-
 	// Move platform forwards
 		// Get current location
+	FVector CurrentLocation = GetActorLocation();
 		// Add vector to that location
+	CurrentLocation.X += 1;
 		// Set the location
+	SetActorLocation(CurrentLocation);
 
 	// Send platform back if gone too far
 		// check how far we've moved
