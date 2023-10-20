@@ -7,7 +7,10 @@
 			"files": [
 				"C:/Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/Main.umap",
 				"C:/Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
+				"C:/Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/BP_MovingPlatform.uasset",
+				"C:/Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/BP_MovingPillar.uasset",
+				"C:/Users/doyeo/Documents/GitHub/ObstacleAssault/ObstacleAssault/Content/BP_PushingCube.uasset"
 			]
 		}
 	]
