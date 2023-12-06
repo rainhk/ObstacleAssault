@@ -1456,3 +1456,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.06-03.11.02:392][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.12.06-03.11.02:397][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2023.12.06-03.11.02:447][939]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.12.06-03.27.33:229][307]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.06-03.27.54:315][673]LogLiveCoding: Display:    Creating library C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_3.lib and object C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_3.exp
+[2023.12.06-03.27.54:632][674]LogClass: UPackage /Script/ObstacleAssault Reload.
+[2023.12.06-03.27.54:632][674]LogClass: UClass MovingPlatform Reload.
+[2023.12.06-03.27.54:633][674]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2023.12.06-03.27.54:647][674]Re-instancing MovingPlatform after reload.
+[2023.12.06-03.27.54:724][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.12.06-03.27.54:893][675]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.12.06-03.27.54:893][675]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
