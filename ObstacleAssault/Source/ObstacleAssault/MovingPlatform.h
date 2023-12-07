@@ -31,6 +31,9 @@ private:
 	float MoveDistance = 100;
 	// visibleanywhere or editanywhere
 
+	UPROPERTY(EDITAnywhere, Category="Rotation")
+	FRotator RotationVelocity;
+
 	FVector StartLocation;
 
 	void MovePlatform(float DeltaTime);
