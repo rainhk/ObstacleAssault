@@ -1227,3 +1227,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.07-01.23.26:546][495]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
 [2023.12.07-01.23.26:546][495]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
 [2023.12.07-01.24.42:169][ 50]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.881 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 2020 files in 3155 folders with total size 183 MiB.
+[2023.12.07-01.37.49:835][502]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.07-01.39.31:168][378]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.07-01.39.31:168][378]LogLiveCoding: Error: Live coding canceled
+[2023.12.07-01.39.32:825][382]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.07-01.40.30:788][423]LogLiveCoding: Display:    Creating library C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_1.lib and object C:\Users\doyeo\Documents\GitHub\ObstacleAssault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_1.exp
+[2023.12.07-01.40.31:225][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.07-01.40.31:262][425]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2023.12.07-01.40.31:262][425]LogLiveCoding: Display: Live coding succeeded
